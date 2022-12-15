@@ -1,0 +1,26 @@
+{
+    "students": {
+        "19a8ca79-5aca-4950-b547-37276bd8c5ef": {
+            "first_name": "Antuh",
+            "last_name": "Sergey",
+            "age": 19,
+            "birth_date": "2003-12-01",
+            "login": "antuh",
+            "id_groupe": "ce7a7d7c-e3a8-423f-abad-ebbcc72b4238",
+            "id": "19a8ca79-5aca-4950-b547-37276bd8c5ef",
+            "created_at": "2022-12-15 14:50:19.994983",
+            "password": "12345"
+        },
+        "84640f03-faa6-4e03-86b9-d8e4d952e8c7": {
+            "first_name": "Alex",
+            "last_name": "Petrov",
+            "age": 18,
+            "birth_date": "2002-12-15",
+            "login": "alex",
+            "id_groupe": "d8dc70fc-eaa4-4adb-b231-f3809c4a0677",
+            "id": "84640f03-faa6-4e03-86b9-d8e4d952e8c7",
+            "created_at": "2022-12-15 16:13:49.718309",
+            "password": "12345"
+        }
+    }
+}
